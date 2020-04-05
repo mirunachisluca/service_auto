@@ -48,7 +48,7 @@ namespace service_auto.DAL
                 SqlDataReader reader = cmd.ExecuteReader();
                 reader.Read();
                 if (reader.HasRows)
-                    u = new User(reader["username"].ToString(), reader["password"].ToString(), reader["role"].ToString());
+                    u = new User((int)reader["ID"], reader["username"].ToString(), reader["password"].ToString(), reader["role"].ToString());
                 else
                     u = null;
                 _conn.Close();
