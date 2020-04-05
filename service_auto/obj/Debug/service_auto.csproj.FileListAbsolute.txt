@@ -1,0 +1,16 @@
+E:\POLI\III\Sem2\PS\service_auto\service_auto\obj\Debug\service_auto.csprojAssemblyReference.cache
+E:\POLI\III\Sem2\PS\service_auto\service_auto\obj\Debug\service_auto.Properties.Resources.resources
+E:\POLI\III\Sem2\PS\service_auto\service_auto\obj\Debug\service_auto.csproj.GenerateResource.cache
+E:\POLI\III\Sem2\PS\service_auto\service_auto\bin\Debug\service_auto.exe.config
+E:\POLI\III\Sem2\PS\service_auto\service_auto\bin\Debug\service_auto.exe
+E:\POLI\III\Sem2\PS\service_auto\service_auto\bin\Debug\service_auto.pdb
+E:\POLI\III\Sem2\PS\service_auto\service_auto\obj\Debug\service_auto.exe
+E:\POLI\III\Sem2\PS\service_auto\service_auto\obj\Debug\service_auto.pdb
+E:\POLI\III\Sem2\PS\service_auto\service_auto\obj\Debug\service_auto.UI.AddAgentForm.resources
+E:\POLI\III\Sem2\PS\service_auto\service_auto\obj\Debug\service_auto.AdminForm.resources
+E:\POLI\III\Sem2\PS\service_auto\service_auto\obj\Debug\service_auto.AgentForm.resources
+E:\POLI\III\Sem2\PS\service_auto\service_auto\obj\Debug\service_auto.LoginForm.resources
+E:\POLI\III\Sem2\PS\service_auto\service_auto\obj\Debug\service_auto.UI.AddAppointmentForm.resources
+E:\POLI\III\Sem2\PS\service_auto\service_auto\obj\Debug\service_auto.UI.AgentAppointments.resources
+E:\POLI\III\Sem2\PS\service_auto\service_auto\obj\Debug\service_auto.UI.AdminReport.resources
+E:\POLI\III\Sem2\PS\service_auto\service_auto\obj\Debug\service_auto.UI.ClosedAppointmentsForm.resources
